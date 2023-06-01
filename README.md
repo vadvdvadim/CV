@@ -4,17 +4,9 @@
 <html>
 <head>
     <meta charset="UTF-8"/>
- <title>    Резюме Иванкевичa Вадимa.
-</head>
-</title><body>
-<style>
-body {
-background-color: orange
-}
-</style>
 
 
-<img src="https://avatars.mds.yandex.net/i?id=79f06603fece8fc75371028fd61225c5-5311044-images-thumbs&n=13">
+
 <h1><p>
 Иванкевич Вадим</p></h1>
 
