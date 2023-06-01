@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8"/>
- <title>    Резюме Иванкевичa Вадимa.
+
 </head>
 </title><body>
 <style>
