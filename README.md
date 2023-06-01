@@ -6,11 +6,7 @@
     <meta charset="UTF-8"/>
 
 </head>
-</title><body>
-<style>
-body {
-background-color: orange
-}
+
 </style>
 
 
